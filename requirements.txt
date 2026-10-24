@@ -1,0 +1,5 @@
+google-api-python-client
+pandas
+vaderSentiment
+matplotlib
+python-dotenv
